@@ -28,4 +28,5 @@ For any inquiries, suggestions, or contributions to the Enigma Simulator Project
 
 - **Project Maintainer**: Praneet Gogoi
 - **Email**: [praneet.gogoi@gmail.com]
+  
 Thank you for your interest in the Enigma Simulator Project! We look forward to your feedback and contributions as we continue to develop and improve this educational tool.
